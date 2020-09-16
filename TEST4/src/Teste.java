@@ -12,5 +12,6 @@ public class Teste {
      
    	    chrome.get("http://www.google.com");    
 	}
+    //versão do google chrome  85.0.4183.102 (Versão oficial) 32 bits
 
 }
